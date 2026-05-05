@@ -4,5 +4,4 @@ Ciao! Mi chiamo **José Nicolás Di Marco**. Sono uno sviluppatore appassionato 
 
 - 🔭 Sto lavorando a: **E-commerce professionale** con gestione di ruoli e pagamenti.
 - 🌱 Sto approfondendo: **Angular Signals**, **Lazy Loading** e **Advanced Routing**.
-- 🚀 Progetto in evidenza: [GifsApp Live Demo](https://gif-app-sand.vercel.app/).
 - 📫 Contattami: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-nicolas-di-marco/) | dimarconicolas5@gmail.com.
